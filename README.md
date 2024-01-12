@@ -16,6 +16,6 @@ Further developments toward the algorithm have been made by extending the amount
 [Algorithm Mechanics](https://docs.google.com/document/d/1q5KUX-xLURCOdjE8wkjHY9qv6dRMphpyP_P_VNnsyuw/edit?usp=sharing)
 
 
-## Run `python3 main.py`
+## Run `python3 main_ph_ars.py`
 
 
