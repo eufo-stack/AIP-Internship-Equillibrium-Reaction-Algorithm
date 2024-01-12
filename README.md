@@ -2,15 +2,16 @@
 
 Develop and evaluate an algorithm to discover the mathematical model of molecular interactions. Authors: Sheldon Zhu, Eudora Fong, Joseph Perez
 
-Inputs 
-c0 <- initial concentrations 
+## Inputs 
+c0 <- initial concentrations
 v0 <- initial volumes
 ∇c <- added concentrations
 ∇v <- added volume
 x <- initial spec names
 
-Helper Functions
-Generate species names 
+## Helper Functions
+Generate species names
+
 Inputs
 spec_name <- {n1, n2, …, nn} (Prior species within the chemical model)
 Combinatorics (with replacement)
