@@ -11,7 +11,7 @@ To further complete each chemical model, beta values for each species in a given
 
 Further developments toward the algorithm have been made by extending the amount of parameters to be optimized. Instead of just optimizing the initial betas and models, we also optimized initial concentration by implementing grid search combined with our original nglm algorithm for beta and model optimization. This exhaustive search would determine which initial concentration value gives the lowest loss and thus offers the model and betas most closely fitted with our measured data.
 
-[Algorithm Mechanics][https://docs.google.com/document/d/1q5KUX-xLURCOdjE8wkjHY9qv6dRMphpyP_P_VNnsyuw/edit?usp=sharing]
+[Algorithm Mechanics](https://docs.google.com/document/d/1q5KUX-xLURCOdjE8wkjHY9qv6dRMphpyP_P_VNnsyuw/edit?usp=sharing)
 
 
 ## Run `python3 main.py`
