@@ -1,6 +1,8 @@
 # Equilibrium Reaction Predictive Model
 
-Develop and evaluate an algorithm to discover the mathematical model of molecular interactions. Authors: Sheldon Zhu, Eudora Fong, Joseph Perez
+Develop and evaluate an algorithm to discover the mathematical model of molecular interactions.
+
+Authors: Sheldon Zhu, Eudora Fong, Joseph Perez
 
 ## General 
 This model is a machine learning algorithm for accurately and efficiently predicting the species of equilibrium chemical reactions with very limited input data. It is designed to take in as input only the initial and added concentrations and volumes of each species {`c0`, `cadded`, `v0`, `vadded`}, initial species names, and maximum number of species to generate. A key feature of # is that the algorithm can process various scales of reactions due to the nature in which chemical models are generated and then optimized. 
